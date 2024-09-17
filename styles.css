@@ -1,34 +1,34 @@
 body{
 	background-color:#f8f8f8;
 }
-.book_library{
-	background-color:#ffffff;
+.heading{
 	text-align:center;
 }
 .book{
-	align-items:center;
-	display:flex;
+	border-top:20px solid white;
+    display:flex;
 	flex-direction:column;
-	justify-content:center;
+	paddin:3px;
 }
 .img{
 	width:200px;
 	margin:10px;
-
+	margin-left:auto;
+	margin-right:auto;
+   
 }
 h2{
-
-
-	
+	margin:0px
 }
-p{
+p {
 	color:#777777;
 	margin:0px;
 	padding:0px;
 }
 .button{
+	width:100%;
 	background-color:#82DBA5;
 	color:white;
 	border:none;
-	display:block;
 }
+
