@@ -1,7 +1,8 @@
 body{
 	background-color:#f8f8f8;
+		box-shadow:0px 0px 5px ;
 }
-.book_library{
+.heading{
 	text-align:center;
 }
 .book{
@@ -31,7 +32,7 @@ p {
 	background-color:#2ecc71;
 	color:white;
 	border:none;
-	border-radius:5px;
+	border-radius:3px;
 }
 .div{
 	box-shadow:0px 0px 2px ;
